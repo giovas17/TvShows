@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">TvShows</string>
+    <string name="no_data_available">No data available</string>
+    <string name="no_data">There is no data available</string>
+
+    <!-- Tv Shows List Screen -->
+    <string name="tv_shows_list_screen_title">List of Shows</string>
+    <string name="tv_shows_list_screen_placeholder_search">Search a Show</string>
+
+    <!-- Tv Shows Detail Screen -->
+    <string name="tv_shows_detail_screen_language">Language: %1$s</string>
+    <string name="tv_shows_detail_screen_genres">Genres: %1$s</string>
+    <string name="tv_shows_detail_screen_premier">Premier: %1$s</string>
+    <string name="tv_shows_detail_screen_rating">Rating: %1$1.2f</string>
+    <string name="tv_shows_detail_screen_prev_episode">Previous Episode: %1$1s</string>
+
+    <!-- Http Errors -->
+    <string name="error_socket_exception">Probably you don\'t have internet</string>
+    <string name="error_http_exception">%1$s,status code: %2$d</string>
+    <string name="error_unknown_exception">An unknown error occurred</string>
+    <string name="item_grid_description_image">Image for an item</string>
+
+</resources>
